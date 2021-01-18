@@ -7,7 +7,7 @@
 
 ---
 
-### Who we are?
+### Who am I?
 
 > Laurent Grangeau<br />
 > Cloud Solution Architect @ Sogeti
